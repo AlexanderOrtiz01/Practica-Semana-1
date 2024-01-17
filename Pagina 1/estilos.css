@@ -1,0 +1,13 @@
+h1{
+    color: #FF0000;
+}
+
+p{
+    color: rgb(10, 229, 50);
+    font-family: arial;
+}
+
+#miBoton{
+    background-color: green;
+    color: #FFFF;
+}

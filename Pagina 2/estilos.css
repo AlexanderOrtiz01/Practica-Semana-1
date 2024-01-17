@@ -1,0 +1,16 @@
+h1{
+    color: #363636;
+    text-align: center;
+}
+
+p{
+    color: #363636;
+    font-family: arial;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
